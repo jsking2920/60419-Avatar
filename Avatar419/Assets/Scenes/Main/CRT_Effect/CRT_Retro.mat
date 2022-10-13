@@ -26,7 +26,6 @@ Material:
   m_ValidKeywords:
   - CRT_WARP_ON
   - DISTORT_ON
-  - STATIC_ON
   m_InvalidKeywords:
   - Static
   - _Static
@@ -58,7 +57,7 @@ Material:
     m_Ints: []
     m_Floats:
     - CRT_WARP: 1
-    - DISTORT: 0
+    - DISTORT: 1
     - RGB_STRIPES: 0
     - SCROLL_STATIC: 0
     - STATIC: 0
