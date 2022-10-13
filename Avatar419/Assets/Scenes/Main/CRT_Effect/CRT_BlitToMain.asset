@@ -20,7 +20,7 @@ MonoBehaviour:
     setInverseViewMatrix: 0
     srcType: 2
     srcTextureId: _AfterPostProcessTexture
-    srcTextureObject: {fileID: 8400000, guid: 9ab242fd1b669894b87fc5c5b4be5ca4, type: 2}
+    srcTextureObject: {fileID: 8400000, guid: f242b080c6bdb0f47a33684b22a25d6c, type: 2}
     dstType: 0
     dstTextureId: _Test
     dstTextureObject: {fileID: 0}
