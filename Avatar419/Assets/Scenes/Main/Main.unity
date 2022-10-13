@@ -244,7 +244,7 @@ Camera:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingPath: -1
-  m_TargetTexture: {fileID: 8400000, guid: 9ab242fd1b669894b87fc5c5b4be5ca4, type: 2}
+  m_TargetTexture: {fileID: 8400000, guid: f242b080c6bdb0f47a33684b22a25d6c, type: 2}
   m_TargetDisplay: 0
   m_TargetEye: 3
   m_HDR: 1
@@ -491,6 +491,11 @@ PrefabInstance:
       propertyPath: m_DynamicOccludee
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -5330760256840560549, guid: e18e2b195ff32ef429a0c0ffc73053e2,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: aaaaa2ec619103545961a8b60a8604b7, type: 2}
     - target: {fileID: -3746190272939815206, guid: e18e2b195ff32ef429a0c0ffc73053e2,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
