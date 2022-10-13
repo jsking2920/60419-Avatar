@@ -25,7 +25,9 @@ Material:
     type: 3}
   m_ValidKeywords:
   - CRT_WARP_ON
-  m_InvalidKeywords: []
+  m_InvalidKeywords:
+  - Static
+  - _Static
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -69,7 +71,7 @@ Material:
     - _QueueOffset: 0
     - _ScanlineHeight: 10
     - _ScanlineStrength: 0.25
-    - _StaticStrength: 0.08
+    - _StaticStrength: 0.02
     m_Colors:
     - _CRTWarpStrength: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
