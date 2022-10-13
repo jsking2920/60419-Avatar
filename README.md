@@ -4,7 +4,7 @@ Avatar assignment for 60-419 at CMU
 ![Screen Shot](Renders/still.png)
 
 ## Attributions:
-- "Retro CRT Shader (for Universal RP)" shadersS <br> 
+- "Retro CRT Shader (for Universal RP)" shaders <br> 
 	(https://github.com/Cyanilux/URP_RetroCRTShader) by @Cyanilux is licensed under the MIT license
 - "Cold Night" skybox <br> 
 	(https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014) by rpgwhitelock is licensed under Standard Unity Asset Store EULA
