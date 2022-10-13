@@ -23,7 +23,8 @@ Material:
   m_Name: CRT_Retro
   m_Shader: {fileID: -6465566751694194690, guid: 77b7bf11caf2e2e43823cdbe4ee381e1,
     type: 3}
-  m_ValidKeywords: []
+  m_ValidKeywords:
+  - CRT_WARP_ON
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -52,7 +53,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - CRT_WARP: 0
+    - CRT_WARP: 1
     - DISTORT: 0
     - RGB_STRIPES: 0
     - SCROLL_STATIC: 0
