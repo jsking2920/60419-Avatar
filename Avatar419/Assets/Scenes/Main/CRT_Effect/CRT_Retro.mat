@@ -25,6 +25,8 @@ Material:
     type: 3}
   m_ValidKeywords:
   - CRT_WARP_ON
+  - DISTORT_ON
+  - STATIC_ON
   m_InvalidKeywords:
   - Static
   - _Static
@@ -66,7 +68,7 @@ Material:
     - Vector1_96113905: 100
     - Vector1_DF019693: 0.5
     - WOBBLE: 0
-    - _DistortionStrength: 0.5
+    - _DistortionStrength: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ScanlineHeight: 10
