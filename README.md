@@ -14,3 +14,5 @@ Avatar assignment for 60-419 at CMU
 	(https://www.freeimages.com/photo/texture-rusty-metal-1525802) by gobran111
 - "Night Ambience - December 05" audio <br>
 	(https://freesound.org/people/rgbrobot/sounds/209804/) by rgbrobot licensed under Creative Commons 0
+- "Sitting" animation + rigging <br>
+	(https://www.mixamo.com/#/?page=1&query=swinging+legs) by Mixamo
